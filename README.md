@@ -1,1 +1,2 @@
-# cyrptozombies
+# cryptozombies
+CryptoZombies Lesson Code
