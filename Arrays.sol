@@ -14,3 +14,4 @@ contract ZombieFactory {
     Zombie[] public zombies;
 
 }
+test
